@@ -9,8 +9,8 @@
 ### Before you give this EFI a try, make sure you read [this](#Generating-your-own-serial-and-Editing-ROM)!
 
 Tested on:
-| Specs | Laptop| |
-| - | - | - |
+| Specs | Laptop |
+| --- | --- |
 | CPU | Intel Core i5-1035G1 IceLake
 | GPU | NVIDIA GeForce MX250 (Disable)
 | RAM | 12 GB 2666 MHz DDR4 
