@@ -1,9 +1,8 @@
 # HP Pavilion 15-Cs3119tx Hackintosh
 
-[![OpenCore Version](https://img.shields.io/badge/OpenCore-0.7.5-green.svg)](https://github.com/shivalkyra/Hp-Pavilion-15-cs3119tx-Hackintosh-OpenCore/)
-| [Release][release-link]|[Download][download-link]|
-|-----------------|-----------------|
-|[![release-badge](https://img.shields.io/github/release/ic005k/QtOpenCoreConfig.svg?style=flat-square "Release status")](https://github.com/ic005k/QtOpenCoreConfig/releases "Release status") | [![download-badge](https://img.shields.io/github/downloads/ic005k/QtOpenCoreConfig/total.svg?style=flat-square "Download status")](https://github.com/ic005k/QtOpenCoreConfig/releases/latest "Download status")|
+|[Download Release][download-link]|
+|-----------------|
+[![download-badge](https://img.shields.io/badge/OpenCore-0.7.5-green.svg)](https://img.shields.io/github/downloads/ic005k/QtOpenCoreConfig/total.svg?style=flat-square "Download status")|
    
 
 [download-link]: https://github.com/ic005k/QtOpenCoreConfig/releases/latest "Download status"
