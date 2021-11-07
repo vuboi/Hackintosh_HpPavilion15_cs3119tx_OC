@@ -36,9 +36,6 @@ Tested on:
 - HDMI Port (Not Support IceLake Now)
 - Type C HDMI (Not Test)
 - ...
-## Download and Install
-Go to the [Releases](https://github.com/SkyrilHD/HP-8570W-Hackintosh/releases/) page of this repo and download the latest release. Then, copy the EFI folder to your EFI partition... That's it.
-
 ## How to Install macOS Catalina
 
 There are two ways you can install Catalina:
