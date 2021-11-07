@@ -7,7 +7,7 @@
 
 Tested on:
 | Specs | Laptop |
-| :--:| :-- |
+| :-- | :-- |
 | CPU | Intel Core i5-1035G1 IceLake
 | GPU | NVIDIA GeForce MX250 (Disable)
 | RAM | 12 GB 2666 MHz DDR4 
