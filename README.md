@@ -1,16 +1,13 @@
 # HP Pavilion 15-Cs3119tx Hackintosh
-[![OpenCore Version](https://img.shields.io/badge/OpenCore-0.7.5-green.svg)](https://github.com/shivalkyra/Hp-Pavilion-15-cs3119tx-Hackintosh-OpenCore/releases/)
-
-|[Download Release][download-link]|
+|Download Release|
 |-----------------|
 [![download-badge](https://img.shields.io/badge/OpenCore-0.7.5-green.svg)](https://github.com/shivalkyra/Hp-Pavilion-15-cs3119tx-Hackintosh-OpenCore/releases/ "Download status")|
-   
-[download-link]: https://github.com/ic005k/QtOpenCoreConfig/releases/latest "Download status"
+
 ### Before you give this EFI a try, make sure you read [this](#Generating-your-own-serial-and-Editing-ROM)!
 
 Tested on:
 | Specs | Laptop |
-| --- | --- |
+| :--:| :-- |
 | CPU | Intel Core i5-1035G1 IceLake
 | GPU | NVIDIA GeForce MX250 (Disable)
 | RAM | 12 GB 2666 MHz DDR4 
