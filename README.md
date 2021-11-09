@@ -3,7 +3,7 @@
 |-----------------|
 [![download-badge](https://img.shields.io/badge/OpenCore-0.7.5-green.svg)](https://github.com/shivalkyra/Hp-Pavilion-15-cs3119tx-Hackintosh-OpenCore/releases/ "Download status")|
 
-### Before you give this EFI a try, make sure you read [this](#Generating-your-own-serial-and-Editing-ROM)!
+### Before you give this EFI a try, make sure you read [this](#Generating-your-own-serial-and-Editing-ROM)! Read Carefully !!!!
 
 Tested on:
 | Specs | Laptop |
@@ -65,7 +65,7 @@ https://github.com/ic005k/QtOpenCoreConfig
 
 You should also put in your ethernet adapter's MAC address into the ROM section.
 ## Fix Audio (ComBoJack)
-+ Step 1: Download ComboJack:
++ Step 1: Download ComboJack
 ```
 https://github.com/hackintosh-stuff/ComboJack
 ```
