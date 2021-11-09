@@ -30,11 +30,12 @@ Tested on:
 - Sleep
 - Sleep through closing the lid
 - Type C (Audio, Data transmission)
+- Fan Read
 - Etc...
 ## What doesn't work?
 - SD-Card (Not Test) 
-- HDMI Port (Not Support IceLake Now)
 - Type C HDMI (Not Test)
+- HDMI Port (Not Support IceLake Now)
 - ...
 ## How to Install macOS Catalina
 
