@@ -20,7 +20,7 @@ Tested on:
 | BIOS | Update(...) |
 
 ## What works?
-- Audio ([Fix ComBoJack](#Fix Audio (ComBoJack))
+- Audio [Fix ComBoJack](#fix-audio-combojack)
 - Brightness control
 - Battery readout
 - Wifi (Stock Wifi)
