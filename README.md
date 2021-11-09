@@ -32,7 +32,7 @@ Tested on:
 - Type C (Audio, Data transmission)
 - Etc...
 ## What doesn't work?
-- SD-Card (Not Test): You can try
+- SD-Card (Not Test) 
 - HDMI Port (Not Support IceLake Now)
 - Type C HDMI (Not Test)
 - ...
