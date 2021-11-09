@@ -20,7 +20,7 @@ Tested on:
 | BIOS | Update(...) |
 
 ## What works?
-- Audio
+- Audio ([Fix ComBoJack](#Fix Audio (ComBoJack))
 - Brightness control
 - Battery readout
 - Wifi (Stock Wifi)
@@ -64,7 +64,16 @@ https://github.com/ic005k/QtOpenCoreConfig
 + Videos (Update...)
 
 You should also put in your ethernet adapter's MAC address into the ROM section.
-
+## Fix Audio (ComBoJack)
++ Step 1: Download ComboJack:
+```
+https://github.com/hackintosh-stuff/ComboJack
+```
++ Step 2: cd "ComboJack_Installer" and make install
+```
+cd ComboJack_Installer
+sudo ./install.sh
+```
 ## WiFi
  For the full macOS experience with AirDrop, Handoff and all of that, replace the Intel WiFi card with a supported Broadcom one.
 
