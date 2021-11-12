@@ -67,7 +67,6 @@ https://github.com/ic005k/QtOpenCoreConfig
 You should also put in your ethernet adapter's MAC address into the ROM section.
 ## Fix Audio
 Download file FixAudio in Release and read ReadMe.md !
-```
 ## WiFi
  For the full macOS experience with AirDrop, Handoff and all of that, replace the Intel WiFi card with a supported Broadcom one.
 
