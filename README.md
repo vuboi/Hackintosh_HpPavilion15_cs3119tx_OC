@@ -13,17 +13,18 @@ Tested on:
 | RAM | 12 GB 2666 MHz DDR4 
 | SSD | 256 GB KIOXIA NVme
 | Screen | Full HD (1920 x 1080) IPS
-| WiFi | Update(...)
-| Bluetooth | Update(...)
+| WiFi | Intel Wireless-AC 9560
+| Ethernet | Realtek RTL8168/8111
 | Audio | Realtek ALC295
-| OS | macOS Monterey 12.0.1 |
-| BIOS | Update(...) |
+| OS | macOS Monterey 12.0.1/BigSur 11.6.1 |
+| BIOS | F.15 |
 
 ## What works?
-- Audio [Fix ComBoJack](#fix-audio-combojack)
+- Audio [Fix ComBoJack & Popping](#fix-audio)
 - Brightness control
 - Battery readout
-- Wifi (Stock Wifi)
+- Power Management
+- Wifi
 - Ethernet
 - Power Management
 - Keyboard + Trackpad
@@ -33,13 +34,13 @@ Tested on:
 - Fan Read
 - Etc...
 ## What doesn't work?
-- SD-Card (Not Test) 
-- Type C HDMI (Not Test)
+- SD-Card (Not Test): Maybe try later
+- Type C to HDMI (Not Test): Maybe try later
 - HDMI Port (Not Support IceLake Now)
 - ...
 ## How to Install macOS Catalina
 
-There are two ways you can install Catalina:
+There are two ways you can install MacOs:
 
 1. Have a working install of macOS, download the Installer from the App Store, then make a bootable Installer with createinstallmedia by using this command in Terminal.
 ```
@@ -64,15 +65,8 @@ https://github.com/ic005k/QtOpenCoreConfig
 + Videos (Update...)
 
 You should also put in your ethernet adapter's MAC address into the ROM section.
-## Fix Audio (ComBoJack)
-+ Step 1: Download ComboJack
-```
-https://github.com/hackintosh-stuff/ComboJack
-```
-+ Step 2: cd "ComboJack_Installer" and make install
-```
-cd ComboJack_Installer
-sudo ./install.sh
+## Fix Audio
+Download file FixAudio in Release and read ReadMe.md !
 ```
 ## WiFi
  For the full macOS experience with AirDrop, Handoff and all of that, replace the Intel WiFi card with a supported Broadcom one.
