@@ -39,7 +39,7 @@ Tested on:
 - Type C to HDMI (Not Test): Maybe try later
 - HDMI Port (Not Support IceLake Now)
 - ...
-## How to Install macOS Catalina
+## How to Install macOS
 
 There are two ways you can install MacOs:
 
