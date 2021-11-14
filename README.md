@@ -11,7 +11,7 @@ Tested on:
 | :-- | :-- |
 | CPU | Intel Core i5-1035G1 IceLake
 | GPU | NVIDIA GeForce MX250 (Disable)
-| RAM | 12 GB 2666 MHz DDR4 
+| RAM | 16 GB 2666 MHz DDR4 
 | SSD | 256 GB KIOXIA NVme
 | Screen | Full HD (1920 x 1080) IPS
 | WiFi | Intel Wireless-AC 9560
