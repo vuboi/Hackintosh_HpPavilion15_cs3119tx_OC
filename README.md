@@ -17,7 +17,7 @@ Tested on:
 | WiFi | Intel Wireless-AC 9560
 | Ethernet | Realtek RTL8168/8111
 | Audio | Realtek ALC295
-| OS | macOS Monterey 12.0.1/BigSur 11.6.1 |
+| OS | macOS Monterey 12.0.1/BigSur 11.6.1/Catalina 10.15.7 |
 | BIOS | F.15 |
 
 ## What works?
